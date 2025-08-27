@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is made on Flutter using Dart 
+this project contains a simple UI of card which have details about me
+pls don't believe in details they are fake.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image alt](https://github.com/OmSachdev14/cards_connect_new/blob/995e43a2b4830ab70b98b287024b2c0c53757ce9/WhatsApp%20Image%202025-08-27%20at%2011.12.09_15886e02.jpg)
